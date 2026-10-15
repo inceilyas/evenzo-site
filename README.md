@@ -1,6 +1,6 @@
 # evenzo-site
 
-Static legal and support pages for the iPhone budget app (working display name "BudgetApp"): home, Privacy Policy, Terms of Use and Support. English only for now; the tooling is ready for 11 languages. No cookies, no analytics, no external resources.
+Static legal and support pages for the iPhone budget app (Evenzo): home, Privacy Policy, Terms of Use and Support. English only for now; the tooling is ready for 11 languages. No cookies, no analytics, no external resources.
 
 ## Files
 

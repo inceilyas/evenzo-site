@@ -3,7 +3,7 @@
 Single source of instructions; `CLAUDE.md` only contains `@AGENTS.md`. Make changes here.
 
 ## Purpose
-Static legal and support site for the iPhone budget app (repo `budgetplanning`; working display name "BudgetApp", the store name is not chosen yet): home, Privacy Policy, Terms of Use, Support. Published with GitHub Pages from the root of `main`. The app and App Store Connect link to the English pages, so those URLs must not change once published (`/`, `/privacy.html`, `/terms.html`, `/support.html`). Other languages will live under `/<lang>/` with the same four pages.
+Static legal and support site for the iPhone budget app (repo `budgetplanning`; store name "Evenzo"): home, Privacy Policy, Terms of Use, Support. Published with GitHub Pages from the root of `main`. The app and App Store Connect link to the English pages, so those URLs must not change once published (`/`, `/privacy.html`, `/terms.html`, `/support.html`). Other languages will live under `/<lang>/` with the same four pages.
 
 ## Rules
 - Never use emoji, in any output (pages, comments, commit messages, docs).
