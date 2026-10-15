@@ -1,4 +1,4 @@
-# budgetplanning-site
+# evenzo-site
 
 Single source of instructions; `CLAUDE.md` only contains `@AGENTS.md`. Make changes here.
 

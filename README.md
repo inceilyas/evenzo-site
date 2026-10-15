@@ -1,4 +1,4 @@
-# budgetplanning-site
+# evenzo-site
 
 Static legal and support pages for the iPhone budget app (working display name "BudgetApp"): home, Privacy Policy, Terms of Use and Support. English only for now; the tooling is ready for 11 languages. No cookies, no analytics, no external resources.
 
@@ -32,16 +32,16 @@ Where to change things:
 
 ## Publish with GitHub Pages
 
-1. Create a public GitHub repository named `budgetplanning-site` (the free Pages plan needs a public repository) and push `main`.
+1. Create a public GitHub repository named `evenzo-site` (the free Pages plan needs a public repository) and push `main`.
 2. Settings > Pages > Build and deployment > Source: "Deploy from a branch", Branch: `main`, folder `/ (root)`.
-3. After a minute or two the site is live at `https://inceilyas.github.io/budgetplanning-site/`.
+3. After a minute or two the site is live at `https://inceilyas.github.io/evenzo-site/`.
 
 URLs for the app and App Store Connect:
 
-- Privacy Policy: `https://inceilyas.github.io/budgetplanning-site/privacy.html`
-- Terms of Use: `https://inceilyas.github.io/budgetplanning-site/terms.html`
-- Support: `https://inceilyas.github.io/budgetplanning-site/support.html`
-- Marketing: `https://inceilyas.github.io/budgetplanning-site/`
+- Privacy Policy: `https://inceilyas.github.io/evenzo-site/privacy.html`
+- Terms of Use: `https://inceilyas.github.io/evenzo-site/terms.html`
+- Support: `https://inceilyas.github.io/evenzo-site/support.html`
+- Marketing: `https://inceilyas.github.io/evenzo-site/`
 
 ## Before publishing
 
