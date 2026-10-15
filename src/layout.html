@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="{{LANG}}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{PAGE_TITLE}}</title>
+  <meta name="description" content="{{DESCRIPTION}}">
+  <meta name="color-scheme" content="light">
+  <meta name="theme-color" content="#FFF3DD">
+  <link rel="canonical" href="{{CANONICAL}}">
+  {{HREFLANGS}}
+  <link rel="icon" type="image/svg+xml" href="{{ROOT}}assets/favicon.svg">
+  <link rel="stylesheet" href="{{ROOT}}assets/style.css">
+</head>
+<body data-page="{{PAGE}}">
+  <a class="skip" href="#main">{{SKIP}}</a>
+  <header class="site-header">
+    <div class="wrap bar">
+      <a class="brand" href="{{HOME}}"><span class="mark" aria-hidden="true"></span>{{APP_NAME}}</a>
+      <nav aria-label="{{MENU}}">
+        {{NAV}}
+      </nav>
+      <details class="langmenu">
+        <summary class="lang" aria-label="{{LANG_LABEL}}: {{LANG_NAME}}">{{LANG_NAME}}</summary>
+        {{LANG_LIST_MENU}}
+      </details>
+    </div>
+  </header>
+  <main id="main" class="wrap">
+{{CONTENT}}
+  </main>
+  <footer class="site-footer">
+    <div class="wrap">
+      <nav class="footer-langs-wrap" aria-label="{{LANG_LABEL}}">
+        {{LANG_LIST_FOOTER}}
+      </nav>
+      <p class="links">{{FOOTER_LINKS}} <a href="mailto:{{SUPPORT_EMAIL}}">{{SUPPORT_EMAIL}}</a></p>
+      <p class="small">&copy; {{YEAR}} {{DEVELOPER_NAME}}. {{FOOTER_RIGHTS}}</p>
+    </div>
+  </footer>
+</body>
+</html>

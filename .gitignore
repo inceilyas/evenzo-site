@@ -1,0 +1,46 @@
+.DS_Store
+__pycache__/
+
+# Credentials and secrets (never commit)
+.env
+.env.*
+*.pem
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.cer
+*.jks
+*.keystore
+*.secret
+*.secrets
+secrets/
+credentials*.json
+service-account*.json
+serviceAccount*.json
+GoogleService-Info.plist
+google-services.json
+.firebaserc.local
+.npmrc
+# BEGIN unpublished languages (managed by build.py)
+/tr/
+/src/tr/
+/de/
+/src/de/
+/fr/
+/src/fr/
+/it/
+/src/it/
+/es/
+/src/es/
+/pt-br/
+/src/pt-br/
+/ru/
+/src/ru/
+/ja/
+/src/ja/
+/ko/
+/src/ko/
+/zh-hant/
+/src/zh-hant/
+# END unpublished languages
