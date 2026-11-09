@@ -33,7 +33,7 @@ It only records that people paid each other back. The App does not move money. Y
 The groups it funded stay fully usable for 3 more days. After that they become read-only: nobody can add, change or delete anything, but everyone can still view the group, join and leave. Any member with an active Group Plan can reopen a read-only group with their own purchase. One purchase can power up to 10 groups. Joining groups never needs a plan.
 
 ### What does the Group Plan cost? Is there a free trial?
-US prices are $3.99 per month, $24.99 per year and $49.99 for lifetime; your country's price is shown in the App Store. There is no free trial. Personal budgets are free.
+US prices are $2.99 per month, $24.99 per year and $49.99 for lifetime; your country's price is shown in the App Store. There is no free trial. Personal budgets are free. The Group Plan also unlocks the Home Screen and Lock Screen widgets.
 
 ### How do I cancel, restore or get a refund?
 Subscriptions are managed in your Apple Account settings, or from Profile > Manage subscription in the App. To restore a purchase on a new phone, open Profile and tap Restore Purchases. Refunds are handled by Apple at https://reportaproblem.apple.com.

@@ -35,10 +35,11 @@ Personal channels exist only on your phone. We cannot recover them if you delete
 
 ## 4. Group Plan
 
-Creating a group requires an active Group Plan, offered as an auto-renewing subscription (monthly or yearly) or a one-time lifetime purchase. US prices are $3.99 per month, $24.99 per year and $49.99 for lifetime. Prices in other countries are shown in the App Store. There is no free trial.
+Creating a group requires an active Group Plan, offered as an auto-renewing subscription (monthly or yearly) or a one-time lifetime purchase. The plan also unlocks the App's Home Screen and Lock Screen widgets. US prices are $2.99 per month, $24.99 per year and $49.99 for lifetime. Prices in other countries are shown in the App Store. There is no free trial.
 
 - **Who pays.** One person buys the plan and it covers the group for everyone in it. People who join a group do not pay.
 - **How many groups.** One purchase can fund up to 10 groups.
+- **Widgets.** Widgets are unlocked for the person who bought the plan. Joining someone else's group does not unlock them. When a plan ends, widgets lock again.
 - **Payment and renewal.** Purchases are made through your Apple Account and charged by Apple. Monthly and yearly plans renew automatically unless you cancel at least 24 hours before the end of the current period. You can manage or cancel in your Apple Account settings. Deleting the App or your group account does not cancel a subscription.
 - **Lifetime.** Lifetime is a one-time payment and does not renew. It lasts for as long as the Group Plan is offered in the App.
 - **Refunds.** Apple handles refunds under its own policies. Please request them from Apple at https://reportaproblem.apple.com. If Apple refunds or revokes a purchase, it stops funding the groups it covered, and the 3-day period below applies.
