@@ -42,7 +42,7 @@ Creating a group requires an active Group Plan, offered as an auto-renewing subs
 - **Widgets.** Widgets are unlocked for the person who bought the plan. Joining someone else's group does not unlock them. When a plan ends, widgets lock again.
 - **Payment and renewal.** Purchases are made through your Apple Account and charged by Apple. Monthly and yearly plans renew automatically unless you cancel at least 24 hours before the end of the current period. You can manage or cancel in your Apple Account settings. Deleting the App or your group account does not cancel a subscription.
 - **Lifetime.** Lifetime is a one-time payment and does not renew. It lasts for as long as the Group Plan is offered in the App.
-- **Refunds.** Apple handles refunds under its own policies. Please request them from Apple at https://reportaproblem.apple.com. If Apple refunds or revokes a purchase, it stops funding the groups it covered, and the 3-day period below applies.
+- **Refunds.** Apple handles refunds under its own policies. Please request them from Apple at https://reportaproblem.apple.com. If you are a consumer, your statutory rights (for example any right to withdraw from a purchase of digital content or services under the law of your country) are not affected by this section. If Apple refunds or revokes a purchase, it stops funding the groups it covered, and the 3-day period below applies.
 - **Restore.** Use Restore Purchases in Profile on a new phone or after reinstalling.
 - **When a plan ends.** The groups it funded stay fully usable for 3 more days. After that they become read-only. In a read-only group, nobody can add, edit, delete or restore expenses, settlements or categories, or change group details. Everyone can still open the group, see the data, join, and leave.
 - **Reopening.** Any member who has an active Group Plan can reopen a read-only group with their own purchase. A new purchase does not shorten a group's existing coverage.
@@ -81,7 +81,7 @@ We work to keep the App available, but we do not promise it will be uninterrupte
 
 ## 9. Disclaimer and limit of liability
 
-The App is provided "as is" and "as available". To the fullest extent permitted by law, we disclaim all warranties, including fitness for a particular purpose and non-infringement, and we do not warrant that the App, its calculations or exchange rates will be accurate or suitable for your needs. To the fullest extent permitted by law, our total liability for claims related to the App is limited to the greater of the amount you paid us through the App in the 12 months before the claim or US$50, and we are not liable for indirect, incidental, special or consequential damages, or for lost data or disputes between group members. Some jurisdictions do not allow certain limits, so parts of this section may not apply to you. Nothing here limits liability that cannot be limited by law.
+The App is provided "as is" and "as available". To the fullest extent permitted by law, we disclaim all warranties, including fitness for a particular purpose and non-infringement, and we do not warrant that the App, its calculations or exchange rates will be accurate or suitable for your needs. To the fullest extent permitted by law, our total liability for claims related to the App is limited to the greater of the amount you paid us through the App in the 12 months before the claim or US$50, and we are not liable for indirect, incidental, special or consequential damages, or for lost data or disputes between group members. Some jurisdictions do not allow certain limits, so parts of this section may not apply to you. Nothing here limits liability that cannot be limited by law. If you are a consumer, nothing in these Terms takes away your mandatory statutory rights, including any legal guarantee that digital content and digital services are as described and work as they should, and we do not exclude or limit liability for intent, gross negligence, injury to life, body or health, or any other liability that the law of your country does not allow us to exclude or limit.
 
 ## 10. Termination
 
@@ -89,11 +89,11 @@ You may stop using the App at any time, and you can delete your group account in
 
 ## 11. Changes to these Terms
 
-We may update these Terms. Material changes will be posted here with a new effective date and, where required, in the App. Continuing to use the App after a change means you accept it. If these Terms are shown in a language other than English, the translation is provided for convenience and the English version prevails if the versions differ.
+We may update these Terms. Material changes will be posted here with a new effective date and, where required, in the App. Continuing to use the App after a change means you accept it, except where the law requires your express agreement or gives you a right to end the contract, in which case we will follow that law. If these Terms are shown in a language other than English, the translation is provided for convenience and the English version prevails if the versions differ.
 
 ## 12. Governing law
 
-These Terms are governed by the laws of the Republic of Türkiye, without regard to conflict-of-law rules. The courts and enforcement offices of Istanbul have jurisdiction over disputes. Mandatory rights you have under the consumer law of your country of residence are not affected.
+These Terms are governed by the laws of the Republic of Türkiye, without regard to conflict-of-law rules. The courts and enforcement offices of Istanbul have jurisdiction over disputes. Mandatory rights you have under the consumer law of your country of residence are not affected: if you are a consumer, you keep the protection of the mandatory provisions of the law of your country of residence, and you may also bring a claim in the courts of that country.
 
 ## 13. Contact
 
